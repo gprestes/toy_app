@@ -1,3 +1,5 @@
+{<img src="https://snap-ci.com/gprestes/toy_app/branch/master/build_image">}[https://snap-ci.com/gprestes/toy_app/branch/master]
+
 == README
 
 This README would normally document whatever steps are necessary to get the
