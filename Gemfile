@@ -8,7 +8,7 @@ gem 'jquery-rails',         '4.3.5'
 gem 'turbolinks',           '5.2.1'
 gem 'jbuilder',             '2.10.0'
 gem 'rails-html-sanitizer', '1.3.0'
-gem 'sdoc',                 '1.0.0', group: :doc
+gem 'sdoc',                 '1.1.0', group: :doc
 
 group :development, :test do
   gem 'sqlite3',     '1.4.2'
