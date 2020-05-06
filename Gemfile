@@ -13,7 +13,7 @@ gem 'sdoc',                 '1.1.0', group: :doc
 group :development, :test do
   gem 'sqlite3',     '1.4.2'
   gem 'byebug',      '11.1.1'
-  gem 'web-console', '4.0.1'
+  gem 'web-console', '4.0.2'
   gem 'spring',      '2.1.0'
 end
 
