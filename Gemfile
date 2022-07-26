@@ -18,6 +18,6 @@ group :development, :test do
 end
 
 group :production do
-  gem 'pg',             '1.4.0'
+  gem 'pg',             '1.4.1'
   gem 'rails_12factor', '0.0.3'
 end
