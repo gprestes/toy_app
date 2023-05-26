@@ -7,7 +7,7 @@ gem 'coffee-rails',         '5.0.0'
 gem 'jquery-rails',         '4.5.1'
 gem 'turbolinks',           '5.2.1'
 gem 'jbuilder',             '2.11.5'
-gem 'rails-html-sanitizer', '1.5.0'
+gem 'rails-html-sanitizer', '1.6.0'
 gem 'sdoc',                 '2.6.1', group: :doc
 
 group :development, :test do
