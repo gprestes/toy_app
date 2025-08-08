@@ -14,7 +14,7 @@ group :development, :test do
   gem 'sqlite3',     '2.7.3'
   gem 'byebug',      '12.0.0'
   gem 'web-console', '4.2.1'
-  gem 'spring',      '4.3.0'
+  gem 'spring',      '4.4.0'
 end
 
 group :production do
