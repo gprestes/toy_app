@@ -6,7 +6,7 @@ gem 'uglifier',             '4.2.1'
 gem 'coffee-rails',         '5.0.0'
 gem 'jquery-rails',         '4.6.0'
 gem 'turbolinks',           '5.2.1'
-gem 'jbuilder',             '2.13.0'
+gem 'jbuilder',             '2.14.0'
 gem 'rails-html-sanitizer', '1.6.2'
 gem 'sdoc',                 '2.6.1', group: :doc
 
