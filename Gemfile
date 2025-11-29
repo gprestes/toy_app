@@ -11,7 +11,7 @@ gem 'rails-html-sanitizer', '1.6.2'
 gem 'sdoc',                 '2.6.5', group: :doc
 
 group :development, :test do
-  gem 'sqlite3',     '2.8.0'
+  gem 'sqlite3',     '2.8.1'
   gem 'byebug',      '12.0.0'
   gem 'web-console', '4.2.1'
   gem 'spring',      '4.4.0'
